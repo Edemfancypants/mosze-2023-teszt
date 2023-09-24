@@ -37,5 +37,6 @@ int main()
 
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout <<"Feladatot megcsinálta az öcskös"<< std::endl;
     return 0;
 }
